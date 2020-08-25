@@ -1,0 +1,5 @@
+sotano
+cocina
+salita
+comedor
+recibidor

@@ -1,0 +1,5 @@
+martillo
+cuchillo
+katana
+hoz
+bate
